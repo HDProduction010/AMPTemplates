@@ -1,11 +1,11 @@
 {
-    "bindAddress":"{{bindAddress}}",
-    "bindPort":{{bindPort}},
-    "publicAddress":"{{publicAddress}}",
-    "publicPort":{{publicPort}},
+    "bindAddress":"",
+    "bindPort":,
+    "publicAddress":"",
+    "publicPort":,
     "a2s":{
-        "address":"{{a2s.address}}",
-        "port":{{a2s.port}}
+        "address":"",
+        "port":
     },
     "game":{
         "name":"{{game.name}}",
